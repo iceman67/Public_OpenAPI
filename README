@@ -4,6 +4,14 @@ Open API - 주로 웹 API또는 API라고 함
   - 필요한 자료만을 표준데이터 형식으로 제공하기 위해 사용함 음
 
 
+Openweathermap_JSON.py
+- 온도값 얻기
+Openweathermap_JSON_except.ipynb
+- 예외처리
+OpenWeather_JSON_mini.py
+- 반복으로 자료 값 얻기
+
+
 Building a weather app using Openweathermap(OpenAPI 제공) and Flask (웹응용 프래임워크)
 - Get your api key and test the openAPI
 http://api.openweathermap.org/data/2.5/weather?q=city_name&APPID=your_api_key
