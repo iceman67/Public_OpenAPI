@@ -11,9 +11,15 @@ Openweathermap_JSON_except.ipynb
 OpenWeather_JSON_mini.py
 - 반복으로 자료 값 얻기
 
+OpenAPI%20JSON%20Deep%20Dive.ipynb
+- 요청처리 정리
+
 
 Building a weather app using Openweathermap(OpenAPI 제공) and Flask (웹응용 프래임워크)
 - Get your api key and test the openAPI
+
+* How to use openAPI
+
 http://api.openweathermap.org/data/2.5/weather?q=city_name&APPID=your_api_key
 - Write a Flask app 
 $ python3 weather_app.py
